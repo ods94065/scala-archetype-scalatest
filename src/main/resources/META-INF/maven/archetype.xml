@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archetype>
+  <id>scala-archetype-scalatest</id>
+  <resources>
+    <resource>src/main/scala/App.scala</resource>
+  </resources>
+  <testResources>
+    <resource>src/test/scala/AppSpec.scala</resource>
+  </testResources>
+</archetype>
